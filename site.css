@@ -1,0 +1,47 @@
+.posts_form {
+	position: absolute;
+	background-color: #000000;
+	padding:1px;
+	width: 600px;
+}
+
+.posts_row {
+	background-color: #808080;
+	margin-bottom: 5px;
+}
+
+.poster_info {
+	background-color: #cccccc;
+}
+
+.post_keywords {
+	background-color: #d9d9d9;
+}
+
+.post_title {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #e6e6e6;
+}
+
+.post_content {
+	background-color: #f2f2f2;
+}
+
+.insert_post_form {
+	position: absolute;
+	padding-top: 10px;
+	margin-top: 0px;
+	margin-left: 720px;
+}
+
+.error {
+	color: red;
+}
+
+.echerr {
+	position: absolute;
+	margin-top: 600px;
+}
